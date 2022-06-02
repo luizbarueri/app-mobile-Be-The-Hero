@@ -11,8 +11,8 @@
     "@react-native-community/masked-view": "^0.1.7",
     "@react-navigation/native": "^5.1.4",
     "@react-navigation/stack": "^5.2.9",
-    "axios": "^0.19.2",
-    "expo": "~36.0.0",
+    "axios": "^0.27.2",
+    "expo": "^45.0.4",
     "expo-constants": "^9.0.0",
     "expo-mail-composer": "^8.1.0",
     "intl": "^1.2.5",
@@ -20,15 +20,29 @@
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
     "react-native-gesture-handler": "^1.6.1",
-    "react-native-reanimated": "^1.7.1",
+    "react-native-reanimated": "^2.8.0",
     "react-native-safe-area-context": "^0.7.3",
     "react-native-screens": "^2.4.0",
-    "react-native-web": "~0.11.7",
+    "react-native-web": "^0.17.7",
+    "update": "^0.7.4",
     "yarn": "^1.22.4"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
     "babel-preset-expo": "~8.0.0"
   },
-  "private": true
+  "private": true,
+  "name": "app-mobile-be-the-hero",
+  "version": "1.0.0",
+  "description": "Atualizar para 20022",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizbarueri/app-mobile-Be-The-Hero.git"
+  },
+  "author": "Luiz Amaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizbarueri/app-mobile-Be-The-Hero/issues"
+  },
+  "homepage": "https://github.com/luizbarueri/app-mobile-Be-The-Hero#readme"
 }
